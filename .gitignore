@@ -25,7 +25,6 @@ prisma/test.db
 prisma/test.db-journal
 
 # Build scripts
-scripts/write-schema.js
 
 # Logs and system generated
 npm-debug.log*
