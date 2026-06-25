@@ -1,0 +1,20 @@
+[
+  {
+    "Ticker": "AAPL",
+    "PatentNumber": "US12345678",
+    "Title": "Method for Foo",
+    "FiledAt": "2024-06-01",
+    "GrantedAt": "2025-09-15",
+    "Inventors": ["Alice Smith", "Bob Lee"],
+    "Abstract": "Abstract text"
+  },
+  {
+    "Ticker": "MSFT",
+    "PatentNumber": "US87654321",
+    "Title": "System for Bar",
+    "FiledAt": "2024-08-20",
+    "GrantedAt": null,
+    "Inventors": "Carol Doe",
+    "Abstract": "Other abstract"
+  }
+]

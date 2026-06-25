@@ -1,0 +1,13 @@
+[
+  {
+    "Senator": "Jane Doe",
+    "Ticker": "AAPL",
+    "Transaction": "Purchase",
+    "TransactionDate": "2025-09-15",
+    "ReportDate": "2025-09-30",
+    "Range": "$1,001 - $15,000",
+    "Party": "D",
+    "State": "CA",
+    "Comments": ""
+  }
+]

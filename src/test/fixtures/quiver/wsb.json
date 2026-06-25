@@ -1,0 +1,5 @@
+[
+  { "Ticker": "GME", "Date": "2025-10-15", "Mentions": 420, "Sentiment": 0.72, "Rank": 1 },
+  { "Ticker": "AMC", "Date": "2025-10-15", "Mentions": 110, "Sentiment": 0.31, "Rank": 5 },
+  { "Ticker": "GME", "Date": "2025-10-14", "Mentions": 380, "Sentiment": 0.65, "Rank": 1 }
+]

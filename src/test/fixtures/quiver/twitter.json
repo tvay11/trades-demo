@@ -1,0 +1,5 @@
+[
+  { "Ticker": "TSLA", "Date": "2025-10-15", "Mentions": 5400, "Sentiment": 0.18, "Followers": 1200000 },
+  { "Ticker": "NVDA", "Date": "2025-10-15", "Mentions": 3200, "Sentiment": 0.55, "Followers": 800000 },
+  { "Ticker": "TSLA", "Date": "2025-10-14", "Mentions": 4100, "Sentiment": 0.05, "Followers": 1190000 }
+]

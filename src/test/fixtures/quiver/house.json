@@ -1,0 +1,13 @@
+[
+  {
+    "Representative": "John Smith",
+    "Ticker": "MSFT",
+    "Transaction": "Sale",
+    "TransactionDate": "2025-08-10",
+    "ReportDate": "2025-08-25",
+    "Range": "$15,001 - $50,000",
+    "Party": "R",
+    "State": "TX",
+    "District": "TX-22"
+  }
+]

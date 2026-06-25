@@ -1,0 +1,28 @@
+[
+  {
+    "Ticker": "AAPL",
+    "Name": "Tim Cook",
+    "Title": "CEO",
+    "Transaction": "Sale",
+    "Date": "2025-10-10",
+    "FilingDate": "2025-10-12",
+    "Shares": 50000,
+    "PricePerShare": 175.5,
+    "TotalValue": 8775000,
+    "SharesOwnedAfter": 3000000,
+    "FormType": "4"
+  },
+  {
+    "Ticker": "MSFT",
+    "Name": "Satya Nadella",
+    "Title": "CEO",
+    "Transaction": "Purchase",
+    "Date": "2025-09-22",
+    "FilingDate": "2025-09-23",
+    "Shares": 10000,
+    "PricePerShare": 412.0,
+    "TotalValue": 4120000,
+    "SharesOwnedAfter": 815000,
+    "FormType": "4"
+  }
+]

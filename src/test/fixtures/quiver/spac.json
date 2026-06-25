@@ -1,0 +1,18 @@
+[
+  {
+    "Ticker": "SPCQ",
+    "Name": "Quantum Acquisition Corp",
+    "IpoDate": "2024-03-15",
+    "TrustValue": 250000000,
+    "Status": "Searching",
+    "TargetTicker": null
+  },
+  {
+    "Ticker": "MRGR",
+    "Name": "Merger SPAC II",
+    "IpoDate": "2023-11-02",
+    "TrustValue": 180000000,
+    "Status": "Announced",
+    "TargetTicker": "FOO"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Filer": "Berkshire Hathaway",
+    "Ticker": "AAPL",
+    "Shares": 905560000,
+    "Value": 175000000000,
+    "FilingDate": "2025-08-14",
+    "ReportDate": "2025-06-30",
+    "ChangeShares": 0
+  },
+  {
+    "Filer": "Vanguard Group",
+    "Ticker": "MSFT",
+    "Shares": 720000000,
+    "Value": 304000000000,
+    "FilingDate": "2025-08-14",
+    "ReportDate": "2025-06-30",
+    "ChangeShares": 1500000
+  }
+]

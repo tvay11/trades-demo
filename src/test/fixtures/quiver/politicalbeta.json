@@ -1,0 +1,4 @@
+[
+  { "Ticker": "LMT", "Beta": 0.85, "AsOfDate": "2025-10-01" },
+  { "Ticker": "TSLA", "Beta": -0.42, "AsOfDate": "2025-10-01" }
+]

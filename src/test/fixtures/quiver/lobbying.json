@@ -1,0 +1,13 @@
+[
+  {
+    "Client": "Acme Corp",
+    "Registrant": "Big Lobby LLC",
+    "Ticker": "ACME",
+    "Amount": 250000,
+    "Year": 2025,
+    "Quarter": 3,
+    "Type": "First Quarter Report",
+    "Issues": "TRD,TAX",
+    "FiledAt": "2025-10-20T00:00:00Z"
+  }
+]
